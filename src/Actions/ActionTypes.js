@@ -1,0 +1,3 @@
+export const INCRESE_COUNT = "INCRESE_COUNT";
+export const DECREASE_COUNT = "DECREASE_COUNT";
+export const SET_USER_INFO = "SET_USER_INFO";
